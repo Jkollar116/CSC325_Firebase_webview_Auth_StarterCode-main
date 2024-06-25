@@ -1,0 +1,53 @@
+#mainVbox {
+    -fx-background-color: #9c6f2c;
+}
+#backGround{
+    -fx-background-color: #9c6f2c;
+}
+#backGroundTab{
+    -fx-background-color: #74c942;
+}
+
+
+#add {
+    -fx-background-color: #9c6f2c;
+}
+
+#delete {
+    -fx-background-color: #9c6f2c;
+}
+
+#edit {
+    -fx-background-color: #9c6f2c;
+}
+
+#clear {
+    -fx-background-color: #9c6f2c;
+}
+
+#greenBox {
+    -fx-background-color: #74c942;
+}
+
+#menuBar{
+    -fx-background-color: #ae591a;
+}
+
+#tableViewPerson .column-header {
+    -fx-background-color: #837f7f;
+}
+
+#tableViewPerson .column-header .label {
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+
+#gBox{
+    -fx-background-color: #837f7f;
+}
+
+
+
+.bold-text {
+    -fx-font-weight: bold;
+}
